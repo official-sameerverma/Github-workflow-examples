@@ -3,7 +3,7 @@ name: Print message
 on:
   push:
 
-job:
+jobs:
     say-hello:
         runs-on: ubuntu-latest
 
